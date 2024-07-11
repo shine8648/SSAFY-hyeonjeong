@@ -1,5 +1,5 @@
                                                             ✨✨✨About Me✨✨✨
-![사진](https://imgcdn.stablediffusionweb.com/2024/7/11/3a7f38ea-088e-4b5f-b6fa-dbbb354cd98d.jpg){: width="20%" height="20%"}
+![사진](https://imgcdn.stablediffusionweb.com/2024/7/11/3a7f38ea-088e-4b5f-b6fa-dbbb354cd98d.jpg)
  
 
 ## 👋Profile
