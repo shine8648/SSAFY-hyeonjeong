@@ -1,10 +1,13 @@
-<div align="center" style="background-color: lightblue; padding: 10px; border-radius: 10px;">
+<div align="center" style="background-color: lightgray; padding: 10px; border-radius: 10px;">
 ✨✨✨About Me✨✨✨
 </div>
 
+<br>
 
-![사진](https://imgcdn.stablediffusionweb.com/2024/7/11/3a7f38ea-088e-4b5f-b6fa-dbbb354cd98d.jpg)
- 
+<div align="center">
+    <img src="https://imgcdn.stablediffusionweb.com/2024/7/11/3a7f38ea-088e-4b5f-b6fa-dbbb354cd98d.jpg" alt="사진" width="500" height="500">
+</div>
+
 
 ## 👋Profile
 - 🇰🇷 I was born in Daegu, and currently live in  Daejeon
