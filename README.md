@@ -1,4 +1,8 @@
-<div align="center">✨✨✨About Me✨✨✨</div>
+<div align="center" style="background-color: lightblue; padding: 10px; border-radius: 10px;">
+✨✨✨About Me✨✨✨
+</div>
+
+
 ![사진](https://imgcdn.stablediffusionweb.com/2024/7/11/3a7f38ea-088e-4b5f-b6fa-dbbb354cd98d.jpg)
  
 
